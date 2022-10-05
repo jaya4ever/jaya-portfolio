@@ -34,3 +34,23 @@ li a {
 li a:hover {
     background-color: pink;
 }
+/* MAIN */
+/* ABOUT SECTION */
+.about {
+    display: flex;
+}
+.about figure {
+    border-radius: 65rem;
+}
+.about figure img {
+    border-radius: 65rem;
+    right: auto;
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+.about figure figcaption {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
