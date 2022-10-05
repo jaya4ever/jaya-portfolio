@@ -77,6 +77,11 @@ h2 {
 h2:hover {
     background-color: azure;
 }
+h3 {
+    text-align: center;
+    font-weight: 200;
+    color: white;
+}
 .section-article {
     text-align: left;
     margin: 15px;
