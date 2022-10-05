@@ -1,6 +1,6 @@
 # jaya-portfolio
 ## About this Project
-### I have started making my first Portfolio and named it Jaya Portfolio which is my real name through this project. I have used HTML and CSS languages in this project.
+### I have started making my first Portfolio and named it Jaya Portfolio which is my real name. In this project I have used HTML and CSS languages in this project.
 
 #### I have used my profile pic in my project. This is on line 30 in index.html
 ![profilepic](https://user-images.githubusercontent.com/111536082/194132550-be686d87-918b-4e00-a107-5d2f61cd00a5.png)
