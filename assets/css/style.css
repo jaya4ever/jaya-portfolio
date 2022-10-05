@@ -108,4 +108,13 @@ footer p {
 footer a:hover {
     color: red;
 }
-
+.aside {
+    text-align: left;
+    padding: 10px;
+    position: relative;
+    text-decoration: aqua;
+    text-transform: capitalize;
+    font-size: 18px;
+    max-width: 80%;
+    font-size: 18px;
+}
