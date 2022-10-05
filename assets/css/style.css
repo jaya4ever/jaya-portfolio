@@ -8,6 +8,10 @@ header {
     color: blue;
     margin-left: 14px;
 }
+a{
+    text-decoration: none;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
