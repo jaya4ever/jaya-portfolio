@@ -12,6 +12,7 @@
  [Linkedin](https://www.linkedin.com/in/jaya-singh-9aa606133/ "Linkedin home")
 
 ### This is the URL for my current project which I named Jaya Portfolio. Jaya Portfolio is the name of my GitHub repository
+ [GitHub](https://github.com/jaya4ever/jaya-portfolio "GitHub Repository URL")
 
 
 
