@@ -11,9 +11,12 @@ header {
     margin-left: 14px;
 }
 
-h1 {
-    margin-left: 20px;
+header img {
+    width: 100%;
+    height: 50vh;
+    margin: 0;
 }
+
 
 a {
     text-decoration: none;
@@ -24,19 +27,20 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: green;
-    display: row;
+   background-color: green;
+    display: flex;
     width: 100%;
+    align-items: right;
 }
 
-nav li {
-    display: table-cell
+ nav li {
+    
 }
 
-li a {
+ li a {
     display: block;
-    color: whitesmoke;
-    text-align: center;
+    color: white;
+    text-align: right;
     padding: 30px 30px;
     text-decoration: none;
 }
@@ -49,7 +53,6 @@ li a:hover {
 /* ABOUT SECTION */
 .about {
     display: flex;
-
 }
 
 .about p {
@@ -58,8 +61,6 @@ li a:hover {
     padding: 40px;
     width: 100%;
     font-size: 30px;
-    color: #551A8B;
-
 
 }
 
@@ -88,15 +89,18 @@ li a:hover {
 /* PROJECTS */
 .projects {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    border: right;
+    
+    
+    
+   
 
 }
 
 .projects h1 {
     color: blue;
     text-align: center;
-    margin-left: 200px;
+   
     margin-top: 100px;
 }
 
@@ -140,13 +144,14 @@ li a:hover {
 
 .experience {
 
-    margin-left: 20px;
+    display: flex;
+   
     color: blue;
 
 }
 
-.experience h2 {
-    margin-left: 20px;
+.experience h1 {
+    text-align: center;
     font-size: 2em
 }
 
@@ -156,7 +161,7 @@ li a:hover {
     padding: 0;
     display: row;
     width: 100%;
-    margin-left: 14px;
+   
 
 }
 
@@ -164,7 +169,7 @@ li a:hover {
     font-weight: bold;
     border: 1px solid lightblue;
     border-radius: 40px;
-    margin: 10px;
+    margin: auto;
     width: 200px;
     padding: 2px;
     color: black;
@@ -215,13 +220,23 @@ footer a:hover {
     color: coral;
 
 }
-
 .aside {
+    width:30%;
+}
+
+.section-right {
     text-align: center;
-    padding: 10px;
-    position: relative;
-    text-transform: capitalize;
-    font-size: 18px;
-    max-width: 80%;
-    font-size: 18px;
+    margin: auto;
+}
+
+@media screen and (max-width: 800px) {
+    .projects {
+        display: block;
+    }
+    .experience {
+        display: block;
+    }
+    .aside {
+        margin: auto;
+    }
 }
