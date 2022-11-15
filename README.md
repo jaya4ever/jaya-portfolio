@@ -20,6 +20,9 @@
 
  #### This is my first project in Northwestern coding boot camp
  [Random Madlib project](https://theincrediblehulksmash.github.io/RandomMadlib/ "My First Project")
+ 
+ ### This is the screenshot of my first project in Northwestern coding boot camp
+ ![madlibProject](https://user-images.githubusercontent.com/111536082/201811726-f165c8da-20e3-48e7-8a60-fb2793207888.jpeg)
 
 
 
