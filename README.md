@@ -19,7 +19,7 @@
  [GitHub]( https://jaya4ever.github.io/jaya-portfolio/ "GitHub Page")
 
  #### This is my first project in Northwestern coding boot camp
- [Random Madlib project](https://docs.google.com/presentation/d/1FJtdZRnJ3vIA2626KZ3Ea5bBYeo7lNM-3oCoJ5XENSs/edit#slide=id.p "My First Project")
+ [Random Madlib project](https://theincrediblehulksmash.github.io/RandomMadlib/ "My First Project")
 
 
 
