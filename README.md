@@ -23,6 +23,9 @@
  
  ### This is the screenshot of my first project in Northwestern coding boot camp
  ![madlibProject](https://user-images.githubusercontent.com/111536082/201811726-f165c8da-20e3-48e7-8a60-fb2793207888.jpeg)
+ 
+ ### This is the screenshot of my second project in Northwestern coding boot camp
+ ![MovieApp](https://user-images.githubusercontent.com/111536082/214208629-25f6ac67-355f-4786-9a3a-c9d365993f91.jpg)
 
 
 
